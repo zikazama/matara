@@ -1,0 +1,12 @@
+{
+    "name": "divudi/matara",
+    "authors": [
+        {
+            "name": "Fauzi",
+            "email": "fauzi.fadhlurrohman@divusi.com"
+        }
+    ],
+    "require": {
+        "serpapi/google-search-results-php": "^2.0"
+    }
+}
